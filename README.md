@@ -1,2 +1,3 @@
 # didactic-waddle
-A certain game, having an Asian name but from the western world, in the form of a religeous star.
+Description:
+A certain game, having an eastern world name but invented in the western world, in the form of a religious star.
